@@ -437,6 +437,6 @@ var (
 		AttributeJobPrinterStateMessage:  TagString,
 		AttributeJobImpressionsCompleted: TagInteger,
 		AttributePrintScaling:            TagKeyword,
-		AttributePrintColorMode:          TagEnum,
+		AttributePrintColorMode:          TagKeyword,
 	}
 )
